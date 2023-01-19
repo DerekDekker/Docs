@@ -77,10 +77,6 @@ nav:
         - 蓝牙: Python/蓝牙.md
         - serial: Python/serial.md
     - MicroPython: Python/MicroPython.md
-
-  - C/C++:
-      - 基础: C/基础.md
-      - 数据类型: C/数据类型.md
   - Flutter:
       - Dart: Flutter/Dart.md
       - 数据类型: Flutter/数据类型.md
@@ -150,7 +146,9 @@ nav:
             - rest: Django/Django_REST_framework/rest.md
             - serializers: Django/Django_REST_framework/serializers.md
     - PySide:
-        - 代码: home/index.md
+        - 代码: PySide/框架.md
+        - 代码: PySide/布局.md
+        - 代码: PySide/组件.md
     - MySql:
         - SQL: MySql/SQL.md
         - 命令: MySql/工具.md
@@ -229,4 +227,7 @@ nav:
           - 基础: Final Cut Pro/基础.md
       - Fusion 360:
           - 基础: Fusion 360/基础.md
+      - C/C++:
+          - 基础: C/基础.md
+          - 数据类型: C/数据类型.md
 
