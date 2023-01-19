@@ -37,8 +37,6 @@ extra:
 # GitHub 仓库
 repo_url: https://github.com/DerekDekker/Docu
 
-site_url: https://docu.derekdekker.com
-
 # 开启扩展
 markdown_extensions:
   - attr_list
