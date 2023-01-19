@@ -35,7 +35,7 @@ extra:
       link: https://twitter.com/squidfunk
 
 # GitHub 仓库
-repo_url: https://github.com/DerekDekker/Docu
+#repo_url: https://github.com/DerekDekker/Docu
 
 # 开启扩展
 markdown_extensions:
