@@ -132,23 +132,10 @@ nav:
         - 增删改: SQLModel/增删改.md
         - 查询: SQLModel/查询.md
         - SQLModel与FaseAPI: SQLModel/SQLModel与FaseAPI.md
-    - Django:
-        - 框架: Django/框架.md
-        - Model: Django/model.md
-        - View: Django/views.md
-        - Admin: Django/admin.md
-        - Settings: Django/settings.md
-        - templates: Django/templates.md
-        - urls: Django/urls.md
-        - 扩展: Django/扩展.md
-        - ORM: Django/ORM.md
-        - Django REST framework:
-            - rest: Django/Django_REST_framework/rest.md
-            - serializers: Django/Django_REST_framework/serializers.md
     - PySide:
-        - 代码: PySide/框架.md
-        - 代码: PySide/布局.md
-        - 代码: PySide/组件.md
+        - 框架: PySide/框架.md
+        - 布局: PySide/布局.md
+        - 组件: PySide/组件.md
     - MySql:
         - SQL: MySql/SQL.md
         - 命令: MySql/工具.md
@@ -173,6 +160,19 @@ nav:
         - 基础: ZeroMQ/基础.md
     - Docker:
         - 基础: Docker/基础.md
+    - Django:
+        - 框架: Django/框架.md
+        - Model: Django/model.md
+        - View: Django/views.md
+        - Admin: Django/admin.md
+        - Settings: Django/settings.md
+        - templates: Django/templates.md
+        - urls: Django/urls.md
+        - 扩展: Django/扩展.md
+        - ORM: Django/ORM.md
+        - Django REST framework:
+            - rest: Django/Django_REST_framework/rest.md
+            - serializers: Django/Django_REST_framework/serializers.md
   - 知识:
       - 框架介绍: 知识/框架介绍.md
       - 计算机:
