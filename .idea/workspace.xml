@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="cec12044-66c9-4127-8657-6144d5c5cbe8" name="变更" comment="提交">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mkdocs.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/PySide/框架.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/PySide/框架.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/PySide/组件.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/PySide/组件.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -340,28 +341,9 @@
       <workItem from="1673263658235" duration="1139000" />
       <workItem from="1673270726876" duration="30000" />
       <workItem from="1674064876909" duration="1247000" />
-      <workItem from="1674107166460" duration="1055000" />
-    </task>
-    <task id="LOCAL-00006" summary="test">
-      <created>1660477417568</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1660477417568</updated>
-    </task>
-    <task id="LOCAL-00007" summary="test">
-      <created>1660530487267</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1660530487267</updated>
-    </task>
-    <task id="LOCAL-00008" summary="test">
-      <created>1660566896927</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1660566896927</updated>
+      <workItem from="1674107166460" duration="1258000" />
+      <workItem from="1674120732248" duration="4000" />
+      <workItem from="1674745196186" duration="1427000" />
     </task>
     <task id="LOCAL-00009" summary="test">
       <created>1660656156497</created>
@@ -685,7 +667,28 @@
       <option name="project" value="LOCAL" />
       <updated>1674107981423</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="提交">
+      <created>1674108234395</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1674108234395</updated>
+    </task>
+    <task id="LOCAL-00056" summary="提交">
+      <created>1674108264139</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1674108264139</updated>
+    </task>
+    <task id="LOCAL-00057" summary="提交">
+      <created>1674108399018</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1674108399018</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
