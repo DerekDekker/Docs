@@ -136,6 +136,9 @@ nav:
         - 框架: PySide/框架.md
         - 布局: PySide/布局.md
         - 组件: PySide/组件.md
+        - 信号: PySide/信号.md
+        - 功能: PySide/功能.md
+        - 美化: PySide/美化.md
     - MySql:
         - SQL: MySql/SQL.md
         - 命令: MySql/工具.md
