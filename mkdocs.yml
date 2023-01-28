@@ -138,7 +138,8 @@ nav:
         - 组件: PySide/组件.md
         - 信号: PySide/信号.md
         - 功能: PySide/功能.md
-        - 美化: PySide/美化.md
+        - 样式: PySide/样式.md
+        - QSS: PySide/QSS.md
     - MySql:
         - SQL: MySql/SQL.md
         - 命令: MySql/工具.md

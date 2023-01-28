@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cec12044-66c9-4127-8657-6144d5c5cbe8" name="变更" comment="提交">
-      <change afterPath="$PROJECT_DIR$/docs/PySide/信号.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/PySide/功能.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/PySide/美化.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/PySide/样式.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/PySide/布局.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/PySide/布局.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/PySide/信号.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/PySide/信号.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/PySide/功能.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/PySide/功能.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/PySide/框架.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/PySide/框架.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/PySide/组件.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/PySide/组件.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/PySide/美化.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/PySide/QSS.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mkdocs.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -349,14 +349,10 @@
       <workItem from="1674107166460" duration="1258000" />
       <workItem from="1674120732248" duration="4000" />
       <workItem from="1674745196186" duration="1464000" />
-      <workItem from="1674807852173" duration="4757000" />
-    </task>
-    <task id="LOCAL-00010" summary="test">
-      <created>1660747601423</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1660747601423</updated>
+      <workItem from="1674807852173" duration="4942000" />
+      <workItem from="1674877442985" duration="1213000" />
+      <workItem from="1674880602356" duration="1101000" />
+      <workItem from="1674920960119" duration="4047000" />
     </task>
     <task id="LOCAL-00011" summary="test">
       <created>1660931938103</created>
@@ -694,7 +690,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674746637041</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="提交">
+      <created>1674832122939</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1674832122940</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
