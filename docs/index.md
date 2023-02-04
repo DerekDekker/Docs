@@ -39,3 +39,7 @@ Hi 我是 DerekDekker 是一位后端工程师。
 
 [ip-api](https://ip-api.com/docs)
 
+### 框架
+
+[pydantic](https://docs.pydantic.dev)
+
