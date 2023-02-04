@@ -5,23 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cec12044-66c9-4127-8657-6144d5c5cbe8" name="变更" comment="提交">
-      <change afterPath="$PROJECT_DIR$/docs/设计模式/原型模式_02/基础.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/01.py" beforeDir="false" afterPath="$PROJECT_DIR$/01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/PySide/框架.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/PySide/框架.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/设计模式/单例模式_01/singleton.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/设计模式/单例模式_01/singleton.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/设计模式/原型模式_02/Archer_1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/设计模式/原型模式_02/Knight_1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/设计模式/原型模式_02/rts_multi_unit.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/设计模式/原型模式_02/核心/Archer_1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/设计模式/原型模式_02/核心/Archer_2.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/设计模式/原型模式_02/核心/Knight_1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/设计模式/原型模式_02/核心/Knight_2.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/设计模式/原型模式_02/核心/concrete.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/设计模式/原型模式_02/核心/prototype_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/设计模式/原型模式_02/核心/rts_prototype.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mkdocs.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/设计模式/原型模式_02/基础.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/设计模式/原型模式_02/基础.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,9 +149,29 @@
       <envs />
       <method v="2" />
     </configuration>
+    <configuration name="Doctest main" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="Docu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="main" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.01" />
+        <item itemvalue="Python 测试.Doctest main" />
         <item itemvalue="Python.operator" />
         <item itemvalue="Python.peppa_pig" />
         <item itemvalue="Shell Script.01.sh" />
@@ -365,14 +372,7 @@
       <workItem from="1674999740290" duration="107000" />
       <workItem from="1675002240744" duration="14000" />
       <workItem from="1675318825176" duration="192000" />
-      <workItem from="1675493490619" duration="3786000" />
-    </task>
-    <task id="LOCAL-00013" summary="test">
-      <created>1661436860018</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1661436860018</updated>
+      <workItem from="1675493490619" duration="7490000" />
     </task>
     <task id="LOCAL-00014" summary="test">
       <created>1661439247254</created>
@@ -710,7 +710,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674999818185</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="提交">
+      <created>1675520507546</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1675520507546</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -736,8 +743,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="提交" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Docu$01.coverage" NAME="01 覆盖结果" MODIFIED="1675519484819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Docu$01.coverage" NAME="01 覆盖结果" MODIFIED="1675523903417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Docu$peppa_pig.coverage" NAME="peppa_pig 覆盖结果" MODIFIED="1667555572387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads/Python-100-Days-master/Day01-15/code/Day01" />
+    <SUITE FILE_PATH="coverage/Docu$Doctest_main.coverage" NAME="Doctest main 覆盖结果" MODIFIED="1675523781565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Docu$operator.coverage" NAME="operator 覆盖结果" MODIFIED="1667555575704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads/Python-100-Days-master/Day01-15/code/Day02" />
   </component>
 </project>
