@@ -120,7 +120,6 @@ nav:
     - FastAPI:
         - 基础: FastAPI/基础.md
         - 依赖: FastAPI/依赖.md
-        - 安全与认证: FastAPI/安全与认证.md
         - HTML: FastAPI/HTML.md
         - pydantic: FastAPI/pydantic.md
         - 扩展: FastAPI/扩展.md
