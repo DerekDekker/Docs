@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cec12044-66c9-4127-8657-6144d5c5cbe8" name="变更" comment="提交">
-      <change afterPath="$PROJECT_DIR$/docs/Pydantic/基础.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/Pydantic/数据类型.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/Pydantic/模型.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/FastAPI/基础.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/FastAPI/基础.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mkdocs.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Python/异常.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Python/异常.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -383,14 +379,9 @@
       <workItem from="1675604184748" duration="2868000" />
       <workItem from="1675607863932" duration="60000" />
       <workItem from="1676126774206" duration="609000" />
-      <workItem from="1681130323574" duration="2291000" />
-    </task>
-    <task id="LOCAL-00019" summary="test">
-      <created>1661949142389</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1661949142389</updated>
+      <workItem from="1681130323574" duration="2339000" />
+      <workItem from="1681400437737" duration="5000" />
+      <workItem from="1681917481016" duration="261000" />
     </task>
     <task id="LOCAL-00020" summary="test">
       <created>1662160865047</created>
@@ -728,7 +719,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681133687569</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="提交">
+      <created>1681135005819</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1681135005819</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
