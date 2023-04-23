@@ -91,6 +91,11 @@ nav:
       - 扩展: Flutter/扩展.md
       - bloc: Flutter/bloc.md
       - Provider: Flutter/Provider.md
+  - Web:
+      - HTML: Web/HTML.md
+      - CSS: Web/CSS.md
+      - 基础: Web/基础.md
+      - 数据类型: Web/数据类型.md
   - Solidity:
       - 基础: Solidity/基础.md
   - Linux:
