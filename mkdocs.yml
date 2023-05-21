@@ -106,6 +106,7 @@ nav:
       - 权限与用户: Linux/权限与用户.md
       - 知识: Linux/知识.md
       - shell: Linux/shell.md
+      - 工具列表: Linux/工具列表.md
   - 硬件:
       - ESP32:
           - 基础: ESP32/基础.md
