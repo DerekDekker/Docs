@@ -6,7 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="cec12044-66c9-4127-8657-6144d5c5cbe8" name="变更" comment="提交">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Python/异常.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Python/异常.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/SQLModel/查询.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/SQLModel/查询.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Web/基础.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Web/基础.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Web/常用库.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Web/常用库.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Web/数据类型.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Web/数据类型.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +48,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/x/Documents/GitHub/Docu&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -380,13 +384,14 @@
       <workItem from="1681130323574" duration="2339000" />
       <workItem from="1681400437737" duration="5000" />
       <workItem from="1681917481016" duration="261000" />
-    </task>
-    <task id="LOCAL-00020" summary="test">
-      <created>1662160865047</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1662160865047</updated>
+      <workItem from="1684654461412" duration="1522000" />
+      <workItem from="1685382901580" duration="764000" />
+      <workItem from="1686242350464" duration="2139000" />
+      <workItem from="1686549884272" duration="5825000" />
+      <workItem from="1686630780094" duration="3337000" />
+      <workItem from="1686719056306" duration="4528000" />
+      <workItem from="1686750614481" duration="12000" />
+      <workItem from="1686806760336" duration="4193000" />
     </task>
     <task id="LOCAL-00021" summary="test">
       <created>1662698197253</created>
@@ -724,7 +729,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681135005819</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="提交">
+      <created>1684654737419</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1684654737420</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -750,10 +762,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="提交" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Docu$01.coverage" NAME="01 覆盖结果" MODIFIED="1675526850972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Docu$peppa_pig.coverage" NAME="peppa_pig 覆盖结果" MODIFIED="1667555572387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads/Python-100-Days-master/Day01-15/code/Day01" />
     <SUITE FILE_PATH="coverage/Docu$Doctest_main__1_.coverage" NAME="Doctest main (1) 覆盖结果" MODIFIED="1675525597510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Docu$Doctest_main.coverage" NAME="Doctest main 覆盖结果" MODIFIED="1675525313017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Docu$operator.coverage" NAME="operator 覆盖结果" MODIFIED="1667555575704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads/Python-100-Days-master/Day01-15/code/Day02" />
+    <SUITE FILE_PATH="coverage/Docu$peppa_pig.coverage" NAME="peppa_pig 覆盖结果" MODIFIED="1667555572387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads/Python-100-Days-master/Day01-15/code/Day01" />
+    <SUITE FILE_PATH="coverage/Docu$Doctest_main.coverage" NAME="Doctest main 覆盖结果" MODIFIED="1675525313017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Docu$01.coverage" NAME="01 覆盖结果" MODIFIED="1675526850972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
