@@ -14,6 +14,68 @@
 }
 ```
 
+### float
+
+浮动
+
+```css
+{
+    float: left;
+}
+```
+
+### block
+
+块布局
+
+```css
+{
+    display: block; 
+}
+```
+
+### inline
+
+行内布局
+
+```css
+{
+    display: inline;
+}
+```
+
+### flex
+
+弹性布局
+
+```css
+{
+    display: flex;
+}
+```
+
+### grid
+    
+网格布局
+
+```css
+{
+    display: grid;
+}
+```
+
+### absolute
+
+绝对定位布局
+
+```css
+{
+    position: absolute; 
+    top: 10px; 
+    left: 10px;
+}
+```
+
 ---
 ## left
 

@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cec12044-66c9-4127-8657-6144d5c5cbe8" name="变更" comment="提交">
-      <change afterPath="$PROJECT_DIR$/docs/Python/dataclasses.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Godot/GDScript.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Web/Bootstrap.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01.py" beforeDir="false" afterPath="$PROJECT_DIR$/01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Flutter/基础.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Flutter/基础.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Linux/知识.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Linux/知识.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Web/CSS.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Web/CSS.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mkdocs.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +24,7 @@
       <list>
         <option value="Jupyter Notebook" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -45,6 +49,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
@@ -398,6 +403,16 @@
       <workItem from="1688752739975" duration="1422000" />
       <workItem from="1688827746947" duration="48000" />
       <workItem from="1689430387300" duration="46000" />
+      <workItem from="1689505434620" duration="27000" />
+      <workItem from="1689568594240" duration="1459000" />
+      <workItem from="1689607109116" duration="5508000" />
+      <workItem from="1689780039730" duration="3325000" />
+      <workItem from="1689784728219" duration="2302000" />
+      <workItem from="1689911247375" duration="13000" />
+      <workItem from="1690030658080" duration="5294000" />
+      <workItem from="1690167711448" duration="3014000" />
+      <workItem from="1691323308047" duration="37000" />
+      <workItem from="1691937318086" duration="2076000" />
     </task>
     <task id="LOCAL-00021" summary="test">
       <created>1662698197253</created>

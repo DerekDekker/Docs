@@ -95,6 +95,7 @@ nav:
   - Web:
       - HTML: Web/HTML.md
       - CSS: Web/CSS.md
+      - Bootstrap: Web/Bootstrap.md
       - 基础: Web/基础.md
       - 数据类型: Web/数据类型.md
       - 常用库: Web/常用库.md
