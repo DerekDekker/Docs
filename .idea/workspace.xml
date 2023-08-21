@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cec12044-66c9-4127-8657-6144d5c5cbe8" name="变更" comment="提交" />
+    <list default="true" id="cec12044-66c9-4127-8657-6144d5c5cbe8" name="变更" comment="提交">
+      <change beforePath="$PROJECT_DIR$/docs/Linux/第三方工具.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Linux/第三方工具.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -404,6 +406,7 @@
       <workItem from="1690167711448" duration="3014000" />
       <workItem from="1691323308047" duration="37000" />
       <workItem from="1691937318086" duration="2076000" />
+      <workItem from="1692598095461" duration="1491000" />
     </task>
     <task id="LOCAL-00021" summary="test">
       <created>1662698197253</created>
