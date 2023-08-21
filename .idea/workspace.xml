@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cec12044-66c9-4127-8657-6144d5c5cbe8" name="变更" comment="提交">
-      <change afterPath="$PROJECT_DIR$/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/Godot/GDScript.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/Web/Bootstrap.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Linux/知识.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Linux/知识.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Web/CSS.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Web/CSS.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mkdocs.yml" afterDir="false" />
-    </list>
+    <list default="true" id="cec12044-66c9-4127-8657-6144d5c5cbe8" name="变更" comment="提交" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
