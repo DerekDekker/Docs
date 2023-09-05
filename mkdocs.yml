@@ -250,4 +250,6 @@ nav:
           - 数据类型: C/数据类型.md
       - Deta:
           - 基础: Deta/基础.md
+      - AutoX:
+          - 基础: AutoX/基础.md
 
