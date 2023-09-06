@@ -106,3 +106,23 @@ ui.layout(
 `alpha="0.5"`  透明度
 
 `visibility="visible"`  可见性  [链接](http://doc.autoxjs.com/#/ui?id=visibility)
+
+---
+## 函数
+
+```javascript
+// 结束 销毁界面
+ui.finish()
+```
+
+
+
+
+
+
+
+
+
+
+
+
