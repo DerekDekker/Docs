@@ -27,19 +27,18 @@ ui.layout(
 ```
 
 
-
-
-
 ---
 ## 控件
 
+### 按钮
+
 ```javascript
-// 按钮
 <button text="按钮"/>
 ```
 
+### 文本
+
 ```javascript
-// 文本
 <text text="文本" />
 ```
 
@@ -47,9 +46,9 @@ ui.layout(
 
 `maxLines="3"`  文本行数
 
+### 输入框
 
 ```javascript
-// 输入框
 <input text="输入框" />
 ```
 
@@ -57,9 +56,9 @@ ui.layout(
 
 `inputType="textPassword"`  文本类型  [链接](http://doc.autoxjs.com/#/ui?id=inputtype)
 
+### 图片
 
 ```javascript
-// 图片
 <img src="https://www.google.com/img/bd_logo1.png" />
 ```
 
