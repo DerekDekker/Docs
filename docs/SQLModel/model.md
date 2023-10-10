@@ -166,6 +166,37 @@ if TYPE_CHECKING:
     from .hero_model import Hero
 ```
 
+---
+## 字段校验
 
+```python
+@root_validator
+def create_use(cls, values):
+    values["username"]  # 获取值
+    values["username"] = 值  # 更改值
+    # 抛出异常 暂时不知道怎么做
+    return values
+```
 
+---
+## property
+
+字段定义与关联
+
+```python
+# 用户
+class UserBase(SQLModel):
+    pass
+
+class User(UserBase, table=True):
+    pass
+    @property
+    def difference(self):
+        x = len(self.posts)
+        print(x)
+        return '1212111'
+
+class UserRead(UserBase):
+    difference: str
+```
 
