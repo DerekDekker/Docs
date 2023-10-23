@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cec12044-66c9-4127-8657-6144d5c5cbe8" name="变更" comment="提交">
+      <change afterPath="$PROJECT_DIR$/docs/Python/venv.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Web/react.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/FastAPI/常用库.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/FastAPI/常用库.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mkdocs.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -422,6 +424,9 @@
       <workItem from="1695222272483" duration="1909000" />
       <workItem from="1696903004429" duration="348000" />
       <workItem from="1697184257115" duration="63000" />
+      <workItem from="1697799402603" duration="1881000" />
+      <workItem from="1697850585916" duration="9000" />
+      <workItem from="1698048085831" duration="261000" />
     </task>
     <task id="LOCAL-00021" summary="test">
       <created>1662698197253</created>
