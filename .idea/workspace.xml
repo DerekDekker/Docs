@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cec12044-66c9-4127-8657-6144d5c5cbe8" name="变更" comment="提交">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Web/react.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Web/React.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mkdocs.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Web/React.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Web/React.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -436,7 +433,8 @@
       <workItem from="1698570958455" duration="50000" />
       <workItem from="1698573980547" duration="598000" />
       <workItem from="1698581037018" duration="4000" />
-      <workItem from="1698974167594" duration="9508000" />
+      <workItem from="1698974167594" duration="16812000" />
+      <workItem from="1699375413439" duration="3685000" />
     </task>
     <task id="LOCAL-00021" summary="test">
       <created>1662698197253</created>

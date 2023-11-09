@@ -240,13 +240,20 @@ switch (变量){
 <button onClick={onClick}></button>
 
 function onClick(e) {
-    // e 是触发此函数的组件
+    // e 是触发此事件函数的组件
 }
 ```
 
-??? note "描述"
+```javascript
+<button onClick={() => {
+  onClick(值)
+}}></button>
+```
 
-    按钮的点击函数
+```javascript
+<button onClick={e => onClick(值)}></button>
+
+```
 
 ---
 ## useState
@@ -265,15 +272,128 @@ setIndex({
   name: 新值
 });
 
-setPerson({
+setIndex({
       ...person,
       artwork: {
         ...person.artwork,
         title: 新值
       }
 });
+
+// 在下次渲染前多次更新同一个 state
+setIndex(变量 => 值);
 ```
 
 ??? note "描述"
 
     设置变量名 用于设置的变量名 默认值
+
+
+??? note "更新 state 中的对象"
+
+    state 中可以保存任意类型的 JavaScript 值，包括对象。但是，你不应该直接修改存放在 React state 中的对象。相反，当你想要更新一个对象时，你需要创建一个新的对象（或者将其拷贝一份），然后将 state 更新为此对象。
+
+```javascript
+// 属性的动态命名
+ function handleChange(e) {
+    setPerson({
+      ...person,
+      [e.target.name]: e.target.value
+    });
+}
+
+
+```
+
+### 筛选
+
+```javascript
+setArtists(
+  数组.filter(a => a.id !== artist.id)
+);
+```
+
+### 强制重置组件
+
+只需要给组件key赋予 状态 值 当状态改变时组件也会跟着重置
+
+```javascript
+<组件 key={状态.值}/>
+```
+
+---
+## Context
+
+```javascript
+// 定义
+const LevelContext = createContext(0);
+
+// 获取
+const level = useContext(LevelContext);
+```
+
+??? note "描述"
+
+    定义的对象名称大写
+
+    可以单独在一个文件内定义
+
+
+```javascript
+// 子组件获取 Context对象 值时会获取上层最近组件传递的值
+
+<Context对象.Provider value={值}>
+    子组件
+</Context对象.Provider>
+```
+
+---
+## 事件
+
+事件命名都是以handle开头
+
+```javascript
+<button onClick={function handleClick() {
+  alert('你点击了我！');
+}}>
+
+<button onClick={() => {
+  alert('你点击了我！');
+}}>
+```
+
+### 阻止事件传播
+
+在子组件触发的事件函数中运行, 
+
+```javascript
+e.stopPropagation();
+```
+
+??? note "描述"
+
+    阻止因点击子组件而触发父组件的事件行为
+
+
+阻止浏览器默认行为
+
+```javascript
+e.preventDefault();
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
