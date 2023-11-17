@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cec12044-66c9-4127-8657-6144d5c5cbe8" name="变更" comment="提交">
-      <change afterPath="$PROJECT_DIR$/docs/Web/TailwindCSS.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mkdocs.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Web/TailwindCSS.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Web/TailwindCSS.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +18,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jupyter Notebook" />
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -60,7 +59,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;http.proxy&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -437,7 +436,9 @@
       <workItem from="1698581037018" duration="4000" />
       <workItem from="1698974167594" duration="16812000" />
       <workItem from="1699375413439" duration="3685000" />
-      <workItem from="1699603791098" duration="8517000" />
+      <workItem from="1699603791098" duration="17096000" />
+      <workItem from="1699794673053" duration="11663000" />
+      <workItem from="1700023721799" duration="20123000" />
     </task>
     <task id="LOCAL-00021" summary="test">
       <created>1662698197253</created>

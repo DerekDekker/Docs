@@ -1,4 +1,4 @@
-# TailwindCSS
+# Tailwind CSS
 
 
 
@@ -24,9 +24,10 @@
 
 `ml-2`  左边边距
 
-`w-6`  宽度  `w-full`  百分百  `w-3/4` 比例
+`w-6`  宽度  `w-full`  百分百  `w-3/4` 比例  `w-screen`  屏幕宽度
 
-`h-6`  高度  `h-full` 百分百
+`h-6`  高度  `h-full` 百分百  `h-screen`  屏幕高度 `min-h-[500px]` 最小高度  `max-h-[32rem]`  最大高度
+
 
 `rounded`  圆角  `rounded-full`  圆形  `rounded-r-none`  右边没有圆角
 
@@ -46,6 +47,9 @@
 
 `flex-wrap`  超出自动换行
 
+`bg-opacity-0`      不透明度
+
+`bg-transparent`  透明
 
 ---
 ## 选项
@@ -65,15 +69,23 @@
 ---
 ## 字体
 
-`.text-sm`  字体大小14px  `.text-值`
+`text-sm`  字体大小14px  `.text-值`
 
 `.text-gray-50`  字体颜色  `.text-颜色-值`
 
 `font-semibold`  字体加粗
 
+`text-center`  容器内的文本全部剧中
+
+---
+## 图片
+
+`object-cover`  剧中显示
 
 ---
 ## 布局
+
+`mx-auto`  剧中
 
 `items-center`  垂直方向剧中  `items-start`
 
@@ -84,9 +96,11 @@
 
 弹性布局
 
-`.flex`  Flex 布局
+`flex`  Flex 布局
 
-`.justify-between`  让内部的元素左右两侧平铺布局
+`flex-col`  改变flex轴
+
+`justify-between`  让内部的元素主主轴两侧平铺布局
 
 
 ### Block
@@ -95,6 +109,14 @@
 
 `block` Block 布局
 
+### fixed
+
+固定布局
+
+---
+## 动画
+
+`transition-colors`  动画过度动画
 
 ---
 ## 其他
