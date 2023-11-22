@@ -42,5 +42,8 @@ print(yaml.dump(users))
 with open('users.yaml', 'w') as f:
 
     data = yaml.dump(YAML流, f)
+
+# 允许Unicode字符 不使用ASCII
+yaml.dump(YAML流, allow_unicode=True)
 ```
 
