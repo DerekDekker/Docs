@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cec12044-66c9-4127-8657-6144d5c5cbe8" name="变更" comment="提交">
+      <change afterPath="$PROJECT_DIR$/docs/Rust/基础.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Rust/数据类型.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Python/yaml.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Python/yaml.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Web/React.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Web/React.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Web/常用库.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Web/常用库.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Solidity/基础.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Web/Bootstrap.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Web/基础.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mkdocs.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +80,7 @@
   <component name="RunManager" selected="Python.01">
     <configuration name="01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Docu" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -99,6 +103,7 @@
     </configuration>
     <configuration name="operator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Docu" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -121,6 +126,7 @@
     </configuration>
     <configuration name="peppa_pig" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Docu" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -143,6 +149,7 @@
     </configuration>
     <configuration name="Doctest main (1)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <module name="Docu" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
@@ -162,6 +169,7 @@
     </configuration>
     <configuration name="Doctest main" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <module name="Docu" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
@@ -186,6 +194,13 @@
         <item itemvalue="Python.peppa_pig" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -442,7 +457,9 @@
       <workItem from="1700023721799" duration="20123000" />
       <workItem from="1700220623993" duration="152000" />
       <workItem from="1700509819287" duration="193000" />
-      <workItem from="1700656270387" duration="902000" />
+      <workItem from="1700656270387" duration="1513000" />
+      <workItem from="1701938350816" duration="15000" />
+      <workItem from="1705988060187" duration="6295000" />
     </task>
     <task id="LOCAL-00021" summary="test">
       <created>1662698197253</created>
@@ -787,7 +804,7 @@
       <option name="project" value="LOCAL" />
       <updated>1684654737420</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
