@@ -89,7 +89,7 @@ nav:
       - Tailwind CSS: Web/TailwindCSS.md
       - 数据类型: Web/数据类型.md
       - 常用库: Web/常用库.md    
-      - React Native: Web/React Native.md
+      - React Native: Web/ReactNative.md
   - Linux:
       - 命令: Linux/命令.md
       - 系统工具: Linux/系统工具.md
