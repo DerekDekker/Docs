@@ -12,8 +12,18 @@
 ```shell
 # 项目创建
 npx create-react-app 名称
-#
+
+# 启动项目
 npm start
+
+# 启动项目
+npm run dev
+
+# 安装项目依赖
+npm install
+
+# 构建项目
+npm run build
 ```
 
 ---

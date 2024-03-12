@@ -99,6 +99,7 @@ nav:
       - HTML: Web/HTML.md
       - CSS: Web/CSS.md
       - Tailwind CSS: Web/TailwindCSS.md
+      - React: Web/React.md
       - 数据类型: Web/数据类型.md
       - 常用库: Web/常用库.md    
       
