@@ -71,7 +71,8 @@ nav:
     - 异常: Python/异常.md
     - yaml: Python/yaml.md
     - dataclasses: Python/dataclasses.md
-    - venv: Python/venv.md
+    - dataclasses: Python/dataclasses.md
+    - rich: Python/Rich.md
     - 常用库: Python/常用库.md
     - 扩展:
         - PyCharm: Python/PyCharm.md
