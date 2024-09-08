@@ -83,7 +83,9 @@ nav:
   - Rust:
       - 基础: Rust/基础.md
       - 数据类型: Rust/数据类型.md
+      - 所有权: Rust/所有权.md
       - 函数: Rust/函数.md
+      - 包和crate: Rust/包和crate.md
       - 库:
         - io: Rust/io.md
   - Flutter:
