@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cec12044-66c9-4127-8657-6144d5c5cbe8" name="变更" comment="提交">
-      <change afterPath="$PROJECT_DIR$/docs/Rust/包和crate.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/Rust/所有权.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/Rust/基础.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Rust/基础.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/Rust/数据类型.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Rust/数据类型.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/设计模式/工厂模式_03/抽象工厂.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/设计模式/工厂模式_03/抽象工厂.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mkdocs.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -480,7 +476,8 @@
       <workItem from="1725115081655" duration="664000" />
       <workItem from="1725424465926" duration="7227000" />
       <workItem from="1725556790414" duration="51000" />
-      <workItem from="1725780553014" duration="5321000" />
+      <workItem from="1725780553014" duration="15405000" />
+      <workItem from="1726062031220" duration="4629000" />
     </task>
     <task id="LOCAL-00021" summary="test">
       <created>1662698197253</created>
